@@ -16,9 +16,9 @@ const SingleUserDiv = styled.div`
     max-width: 30%;
     padding: 2%;
     margin: 1%;
-    background-color: darkorange;
+    background-color: lightcyan;
     color: black;
-    border: 3px darkred solid;
+    border: 3px darkblue solid;
     font: italic small-caps bold calc(2px + 1vw) Papyrus, fantasy;
     text-align: center;
     border-radius: 10px;
